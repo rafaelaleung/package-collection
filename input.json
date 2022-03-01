@@ -1,0 +1,13 @@
+{
+    "name": "My Favorites",
+    "overview": "Some of my favorite packages.",
+    "keywords": ["Favorites"],
+    "packages": [
+        { "url": "https://github.com/siteline/SwiftUI-Introspect.git" },
+        { "url": "https://github.com/onevcat/Kingfisher.git" },
+        { "url": "https://github.com/apple/swift-argument-parser.git" }
+    ],
+    "author": {
+        "name": "My Name"
+    }
+}
